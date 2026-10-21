@@ -126,7 +126,7 @@ But they do not contain your metadata or JSON‑LD yet.
 
 ### PHASE 3 — Final visual QA proofing/Throw Away CSR (Client-Side Rendering) Index
 
-Final visual proofing is done using locally running dev servers. We must throw away the “sabotaging” CSR Index (index.csr.html) from the production folder. It carries no title, no meta description and no canonical, so if it ships, it goes live as an ungoverned copy of the app shell, outside SSGA. We keep only the Index.html.
+Final visual proofing is done using locally running dev servers. We must throw away the “sabotaging” CSR Index (index.csr.html) from the production folder. It carries no title, no meta description and no canonical, so if it ships, it goes live as an ungoverned copy of the app shell, outside SSGA, in violation of Tenet 2, Zero-Trust Payload Isolation. We keep only the Index.html.
 
 Because:
 
@@ -414,7 +414,7 @@ v.4.1 was deployed on October 15, 2026. Baseline, from Search Console data as of
 
 ## Deployment Notes
 
-### Double-check that the CSR Index file has been thrown away. If it stays in your build, it goes live without your sovereign metadata and undermines your SSGA deployment.
+### Double-check that the CSR Index file has been thrown away. If it stays in your build, it goes live without your sovereign metadata, violates Tenet 2, Zero-Trust Payload Isolation, and undermines your SSGA deployment.
 
 ### Double-check that the ACTUAL Project Index file is still present. If you have mistakenly deleted it, it will ruin your SSGA deployment.
 
