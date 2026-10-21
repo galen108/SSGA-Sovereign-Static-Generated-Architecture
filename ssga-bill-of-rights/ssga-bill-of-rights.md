@@ -1,0 +1,34 @@
+# SSGA Bill of Rights
+
+## The SSGA Developer & Creator Bill of Rights
+
+### This is the Constitution of the Sovereign Static Generated Architecture
+
+## SSGA Bill of Rights
+
+- Developers & Creators have the right to define their own build boundaries.
+
+- Developers & Creators have the right to override automation at every layer.
+
+- Developers & Creators have the right to semantic truth authored by humans.
+
+- Developers & Creators have the right to deterministic static output.
+
+- Developers & Creators have the right to human‑governed validation gates.
+
+- Developers & Creators have the right to reject agentic instability.
+
+- Developers & Creators have the right to architectural sovereignty.
+
+- Developers & Creators have the right to control of metadata generation.
+
+- Developers & Creators have the right to manual canonicalization.
+
+- Developers & Creators have the right to protect their craft from corporate automation.
+
+### Signed,
+
+#### Galen W. Tenney
+
+#### Founding Architect of the Sovereign Static Generated Architecture (SSGA)
+

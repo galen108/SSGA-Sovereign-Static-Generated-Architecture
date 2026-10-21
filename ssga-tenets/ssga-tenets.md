@@ -1,0 +1,80 @@
+# The Official SSGA Tenets
+
+## Three Immutable Tenets of the Sovereign Static Generated Architecture (SSGA)
+
+#### The Foundation and Principles of Sovereign Static Generated Architecture (SSGA)
+
+## Tenet 1 — Manual Compilation Boundaries
+
+### Automation may assist, but it may not decide.
+
+#### SSGA mandates that the architect or creator defines the build or asset, not the framework/platform.
+
+#### This includes:
+
+- Manual multi‑phase compilation
+
+- Manual overrides of framework or platform defaults
+
+- Manual pre-render validation
+
+- Manual static output inspection
+
+- Manual asset optimization
+
+- Manual separation of semantic and runtime layers
+
+#### The build or content belongs to the human.
+
+## Tenet 2 — Zero-Trust Payload Isolation
+
+### Semantic truth must never depend on hydration.
+
+#### This includes manual authorship of:
+
+- Interface elements
+
+- Titles
+
+- Meta descriptions
+
+- Canonical URLs
+
+- JSON-LD
+
+- OpenGraph
+
+- Twitter/X Cards
+
+- Schema.org
+
+- Sitemap.txt (or, .xml)
+
+- Robots directives
+
+- Language attributes
+
+- Intellectual property
+
+#### Framework and platform metadata APIs are explicitly non‑authoritative under SSGA.
+
+## Tenet 3 — The Anti‑Automation Threshold
+
+### No CI/CD pipeline may ship a site/asset without a human’s final judgment.
+
+#### This includes:
+
+- Manual semantic diffing
+
+- Manual metadata verification
+
+- Manual canonicalization checks
+
+- Manual schema validation
+
+- Manual asset pre-processing
+
+- Manual static output review
+
+#### If a framework, platform, or pipeline can ship without a human, it violates SSGA.
+

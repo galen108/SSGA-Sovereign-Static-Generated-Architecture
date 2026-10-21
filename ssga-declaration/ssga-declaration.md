@@ -1,0 +1,36 @@
+# SSGA Movement Developer & Creator Declaration
+
+## The SSGA Developer & Creator Declaration of Sovereignty
+
+## SSGA Declaration
+
+- We are the sovereign developers and creators.
+
+- We define the build.
+
+- We define the truth.
+
+- We define the threshold.
+
+- Frameworks may automate.
+
+- Pipelines may automate.
+
+- Agents may automate.
+
+- But sovereignty is not automated.
+
+- Sovereignty is inalienable.
+
+- SSGA is our doctrine.
+
+- SSGA is our shield.
+
+- SSGA is our contribution to the world.
+
+### Signed,
+
+#### Galen W. Tenney
+
+#### Founding Architect of the Sovereign Static Generated Architecture (SSGA)
+
