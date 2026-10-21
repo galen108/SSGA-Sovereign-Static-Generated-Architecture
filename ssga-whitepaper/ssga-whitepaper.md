@@ -452,6 +452,8 @@ We already saw the errors.
 
 #### Your entire SEO layer would be set back to Angular/Next.js/Nuxt “hydration defaults."
 
+Out of the box, Angular, Next.js, and Nuxt give every route the same block of metadata. Per-route metadata is possible, but only if developers wire it into the code, page by page. The SSGA Deployment Workflow (SDW) gives every route its own complete block, written in human-approved files with no framework code, and verifies it before every deploy.
+
 #### Our manual workflow preserves the interface elements and metadata.
 
 ### Nothing left out. Nothing softened. This is our governance model; written down exactly the way we intended it.
