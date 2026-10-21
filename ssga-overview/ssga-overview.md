@@ -22,6 +22,8 @@ SSGA is a semantic-layer/governance-layer web governance model.
 
 Modern frameworks/platforms increasingly automate interface elements, metadata, hydration, routing, canonicalization, content generation, and schema generation. These systems produce non‑deterministic output, unstable SEO behavior, hallucinated content, and runtime‑dependent semantic truth.
 
+Out of the box, Angular, Next.js, and Nuxt give every route the same block of metadata. Per-route metadata is possible, but only if developers wire it into the code, page by page. The SSGA Deployment Workflow (SDW) gives every route its own complete block, written in human-approved files with no framework code, and verifies it before every deploy.
+
 Corporations then claim that “AI agents” can replace human developers and creators — while those same agents produce brittle, inconsistent, and semantically incorrect code and creative content, requiring extensive human correction.
 
 SSGA is the counter‑force.
