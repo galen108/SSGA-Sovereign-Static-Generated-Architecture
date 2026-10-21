@@ -238,7 +238,7 @@ But they do not contain your metadata or JSON‑LD yet.
 
 ### PHASE 3 — Final visual QA proofing/Throw Away CSR (Client-Side Rendering) Index
 
-Final visual proofing is done using locally running dev servers. We must throw away the “sabotaging” CSR Index from the production folder. We keep only the Index.html.
+Final visual proofing is done using locally running dev servers. We must throw away the “sabotaging” CSR Index (index.csr.html) from the production folder. It carries no title, no meta description and no canonical, so if it ships, it goes live as an ungoverned copy of the app shell, outside SSGA. We keep only the Index.html.
 
 Because:
 
