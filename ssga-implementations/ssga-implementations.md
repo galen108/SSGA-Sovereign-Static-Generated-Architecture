@@ -416,7 +416,7 @@ v.4.1 was deployed on October 15, 2026. Baseline, from Search Console data as of
 
 ### Double-check that the CSR Index file has been thrown away. If it stays in your build, it goes live without your sovereign metadata, violates Tenet 2, Zero-Trust Payload Isolation, and undermines your SSGA deployment.
 
-### Double-check that the ACTUAL Project Index file is still present. If you have mistakenly deleted it, it will ruin your SSGA deployment.
+### The ACTUAL Project Index (index.html) is the only index file that stays. It carries your sovereign metadata, and it is the file that ships.
 
 ### At Auralicode®, we use Netlify for static site hosting/deployment (because it doesn’t have ties to Google, Cloudflare or Vercel). However, all major static hosting platforms (Netlify, Google Firebase Hosting, Cloudflare Pages and Vercel), as well as container platforms like Google Cloud Run, have their own impediments to manually-injected, zero-trust metadata (such as Netlify’s pretty URLs, etc.). Make sure to disable this feature, or any feature of these platforms that would compromise and/or erase the SSGA-based custom HEAD-section metadata.
 
