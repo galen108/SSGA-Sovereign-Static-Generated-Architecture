@@ -19,14 +19,14 @@
 ▲
 │
 │ FRAMEWORK/PLATFORM RUNTIME LAYER │
-│ Angular (Angular CLI) / Next.js (React) / Nuxt (Vue.js) / Svelte (SvelteKit) / Astro / Gatsby / WordPress / Netlify / Vercel / Cloudflare Pages │
+│ Angular (Angular CLI) / Next.js (React) / Nuxt (Vue.js) / Svelte (SvelteKit) / Astro / WordPress / Netlify / Vercel / Cloudflare Pages / Firebase Hosting │
 │ Alphabet/Google (YouTube/YouTube Studio) / Meta (Facebook/Instagram) / TikTok / Pinterest / xAI (Twitter/X) / Adobe Creative Cloud / Canva + Affinity / Figma / CorelDRAW Graphics Suite / Apple Creator Studio │
 ```
 
 ## Diagram 2 — The Anti-Automated Build and Generation Threshold
 
 ```
-CI/CD Pipeline / AI-Derived Generation ——————————┐
+CI/CD Pipeline(s) / AI-Derived Generation —————————┐
 ▼
 │ ANTI-AUTOMATION THRESHOLD │
 │ Human Review Required │
@@ -38,7 +38,7 @@ Automated Build / Automated Generation —————————┘
 ## Diagram 3 — Metadata/Interface and Content Creation Isolation Model
 
 ```
-Framework / Platform Metadata and Interface API ————————————————┐
+Framework / Platform Metadata/Interface and Content Creation API(s) ————————————————┐
 ▼
 (REJECTED BY SSGA)
 │

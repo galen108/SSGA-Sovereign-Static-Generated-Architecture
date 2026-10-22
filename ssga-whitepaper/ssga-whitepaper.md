@@ -168,11 +168,11 @@ This is the conceptual backbone of Sovereign Static Generated Architecture (SSGA
 
 - Intellectual property
 
-#### Framework and platform metadata APIs are explicitly non‑authoritative under SSGA.
+#### Framework and platform metadata/interface and content creation APIs are explicitly non‑authoritative under SSGA.
 
 ## Tenet 3 — The Anti‑Automation Threshold
 
-### No CI/CD pipeline may ship a site/asset without a human’s final judgment.
+### No AI-derived generation or CI/CD pipeline may ship a site/asset without a human’s final judgment.
 
 #### This includes:
 

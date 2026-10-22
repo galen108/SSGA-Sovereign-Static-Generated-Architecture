@@ -418,7 +418,7 @@ v.4.1 was deployed on October 15, 2026. Baseline, from Search Console data as of
 
 ### The ACTUAL Project Index (index.html) is the only index file that stays. It carries your sovereign metadata, and it is the file that ships.
 
-### At Auralicode®, we use Netlify for static site hosting/deployment (because it doesn’t have ties to Google, Cloudflare or Vercel). However, all major static hosting platforms (Netlify, Google Firebase Hosting, Cloudflare Pages and Vercel), as well as container platforms like Google Cloud Run, have their own impediments to manually-injected, zero-trust metadata (such as Netlify’s pretty URLs, etc.). Make sure to disable this feature, or any feature of these platforms that would compromise and/or erase the SSGA-based custom HEAD-section metadata.
+### At Auralicode®, we use Netlify for static site hosting/deployment (because it doesn’t have ties to Vercel, Cloudflare or Google). However, all major static hosting platforms (Netlify, Vercel, Cloudflare Pages and Google Firebase Hosting), as well as container platforms like Google Cloud Run, have their own impediments to manually-injected, zero-trust metadata (such as Netlify’s pretty URLs, etc.). Make sure to disable this feature, or any feature of these platforms that would compromise and/or erase the SSGA-based custom HEAD-section metadata.
 
 ### Once these final deployment notes are considered, you're ready to deploy your SSGA-based static site. Happy Zip, Drop, and Deploy!
 
