@@ -542,6 +542,14 @@ v.4.1 was deployed on October 15, 2026. Baseline, from Search Console data as of
 
 #### Automation is replacing humans because corporations want to eliminate cost.
 
+### Sources
+
+- Oxford Economics: “Firms don’t appear to be replacing workers with AI on a significant scale.” [Fortune](https://fortune.com/2026/01/07/ai-layoffs-convenient-corporate-fiction-true-false-oxford-economics-productivity/)
+
+- Forrester: “Many companies announcing A.I.-related layoffs do not have mature, vetted A.I. applications ready to fill those roles.” [TechCrunch](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)
+
+- OpenAI CEO Sam Altman: “There’s some AI washing where people are blaming AI for layoffs that they would otherwise do.” [Fortune](https://fortune.com/2026/02/19/sam-altman-confirms-ai-washing-job-displacement-layoffs/)
+
 ## Prior Art Declaration
 
 ### SSGA is hereby declared:
