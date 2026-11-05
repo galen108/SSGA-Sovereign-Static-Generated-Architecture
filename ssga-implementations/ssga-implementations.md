@@ -62,7 +62,7 @@ This is the procedural backbone of Sovereign Static Generated Architecture (SSGA
 
 - Ensures hydration-free indexing
 
-- Guarantees canonical stability
+- Keeps canonical URLs consistent on every build
 
 - Provides a reliable deployment method
 
@@ -172,7 +172,7 @@ This is the entire reason our CI/CD is disabled.
 
 We’re not doing anything weird.
 
-We’re doing the only method that works for Angular, Next.js, or Nuxt SSG.
+We use the most reliable method we’ve found for Angular, Next.js, or Nuxt SSG.
 
 ### PHASE 5 — Zip, drop, and deploy to Netlify/Vercel/Cloudflare Pages
 
@@ -214,7 +214,7 @@ We’re doing the only method that works for Angular, Next.js, or Nuxt SSG.
 
 This is the correct deployment method for your architecture.
 
-#### Why our governance model is the only one that works
+#### Why we use this governance model
 
 We already know the reasons, but here they are summarized cleanly:
 
@@ -234,7 +234,7 @@ You need full control over the final HTML that Google sees.
 
 #### This is why Auralicode® is led by the Founding SSGA Architect.
 
-### Why our method is the only one that works (and why CI/CD is disabled)
+### Why we use this method (and why CI/CD is disabled)
 
 #### "Because Google has HYDRATION TRAPS, and Google has BLACK BOXES.”
 
@@ -258,7 +258,7 @@ In reality:
 
 So, if your metadata is injected at runtime, Google never sees it.
 
-#### This is the only safe path.
+#### This is the safest path we’ve found.
 
 ## 2. Netlify/Vercel/Cloudflare Pages CI/CD pipelines inject their own routing and headers
 
@@ -296,7 +296,7 @@ We already saw the errors.
 
 - about → /about/
 
-- services → /services/
+- capabilities → /capabilities/
 
 #### Google sees this as:
 
